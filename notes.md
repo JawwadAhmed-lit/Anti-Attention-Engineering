@@ -19,4 +19,9 @@ Data Visualization:
 
 Customizable Rules:
 
-    Allow users to set specific goals (e.g., focus time, social media break limits) and provide reminders or alerts to keep them on track
+    Allow users to set specific goals (e.g., focus time, social media break limits) and provide reminders or alerts to keep them on track.
+
+. JavaScript/Node.js (Cross-Platform)
+
+    Electron.js: You can build cross-platform desktop apps using JavaScript, HTML, and CSS. Electron would allow you to create an app that tracks browser activity or monitors screen time.
+    Browser Extensions: You can create a Chrome or Firefox extension using JavaScript to monitor specific website usage (e.g., time spent on social media sites).
