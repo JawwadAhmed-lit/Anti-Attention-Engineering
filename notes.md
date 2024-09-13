@@ -1,3 +1,5 @@
+We will be using Poetry to manage our dependencies. 
+
 Activity Monitoring:
 
     Use libraries like psutil or os to track which applications are running and for how long.
