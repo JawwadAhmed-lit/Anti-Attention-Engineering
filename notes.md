@@ -1,3 +1,5 @@
+We will be using Poetry to manage our dependencies. 
+
 Activity Monitoring:
 
     Use libraries like psutil or os to track which applications are running and for how long.
@@ -25,3 +27,5 @@ Customizable Rules:
 
     Electron.js: You can build cross-platform desktop apps using JavaScript, HTML, and CSS. Electron would allow you to create an app that tracks browser activity or monitors screen time.
     Browser Extensions: You can create a Chrome or Firefox extension using JavaScript to monitor specific website usage (e.g., time spent on social media sites).
+
+Python
